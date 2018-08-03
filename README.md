@@ -20,7 +20,7 @@ Keep it clean! Don’t put too many words on a slide.
 
 A **block** structure is useful for highlighting particular information.
 
-####Definition
+#### Definition
 
 The **deﬁnition** environment is a type of block used for deﬁnitions. Highlight the word you are deﬁning.
 
